@@ -4,6 +4,7 @@ module.exports = {
   pwa: {
     name: '국방모바일보안',
     appleMobileWebAppStatusBarStyle: 'black-translucent',
+    appleMobileWebAppCapable:'yes'
   },
   devServer:{
     host:'0.0.0.0',
