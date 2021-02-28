@@ -16,6 +16,8 @@ module.exports = {
       ca: fs.readFileSync('../cert/chain.pem'),
     },
   },
+	outputDir:'docs',
+	publicPath:'',
   transpileDependencies: [
     'vuetify'
   ]

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.51dd79ad523d6aca5aa5b50a59f5fdef.js"
+  "precache-manifest.2fdeeb861f5b1febe659d3fa29d35de9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cp_kmb"});
