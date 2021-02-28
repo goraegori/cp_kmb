@@ -13,7 +13,8 @@ export default new Vuetify({
         success: '#dda93c',
         error: '#a43833',
         background_dark:'#171717',
-        background_grey:'#212121'
+        background_grey:'#212121',
+        nav_bg:'#252525'
       },
     },
   },
